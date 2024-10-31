@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Django-Simple-Live-Chat**, expanding my expertise in real-time communication technologies.<br><br>🌱 I’m currently learning **new web development techniques** to enhance my skills and stay up-to-date with industry trends.<br><br>💬 Ask me about **Python, Django, Django REST Framework, or web development best practices**.<br><br>⚡ Fun fact: I find immense satisfaction in overcoming coding challenges and learning from each bug I encounter.<br>
+🌱 I’m currently learning **new web development techniques** to enhance my skills and stay up-to-date with industry trends.<br><br>💬 Ask me about **Python, Django, Django REST Framework, or web development best practices**.<br><br>⚡ Fun fact: I find immense satisfaction in overcoming coding challenges and learning from each bug I encounter.<br>
 
 
 ## 🌐 Socials:
