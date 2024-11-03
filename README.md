@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a professional web developer with over 2 years of experience specializing in backend development. My expertise lies in designing and developing dynamic websites and web applications using various databases and modern technologies. I am committed to staying updated with the evolving trends in the web technology industry.
 
-## Skills
+## 🛠️ Skills
 - **Backend Development**: Django.
 - **Database Management**: Experienced with MySQL and PostgreSQL.
 - **Web Technologies**: Skilled in RESTful APIs
