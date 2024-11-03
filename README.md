@@ -1,5 +1,10 @@
 # 💫 About Me:
-🌱 I’m currently learning **new web development techniques** to enhance my skills and stay up-to-date with industry trends.<br><br>💬 Ask me about **Python, Django, Django REST Framework, or web development best practices**.<br><br>⚡ Fun fact: I find immense satisfaction in overcoming coding challenges and learning from each bug I encounter.<br>
+I am a professional web developer with over 2 years of experience specializing in backend development. My expertise lies in designing and developing dynamic websites and web applications using various databases and modern technologies. I am committed to staying updated with the evolving trends in the web technology industry.
+
+## Skills
+- **Backend Development**: Django.
+- **Database Management**: Experienced with MySQL and PostgreSQL.
+- **Web Technologies**: Skilled in RESTful APIs
 
 
 ## 🌐 Socials:
